@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClassicEntry
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python and JAva
+- 👀 I’m interested in Computer architecture
+- 🌱 I’m currently learning assembly, C, C++
 
 
 <!---
